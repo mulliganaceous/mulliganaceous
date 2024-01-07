@@ -1,2 +1,8 @@
-# Riemann-Zeta-Tracer
-The Million-Dollar question of the Millennium spirals around in my head!
+# Samaria Mulligan
+
+Howdy everyone! This is mulliganaceous, a computer science and physics specialist equipped with hackathon knowledge. A longtime unicode fan, more emojis please!
+
+📬: mulliganaceous@outlook.com (main), mulliganaceous@gmail.com (alt)
+🎮: !!MULLIGANACEOUS!!#6666 (discord, _not going to update_)
+▶️: @mulliganaceous (no autoplay!)
+🕓: Eastern Time (UTC−4 or UTC−5)
