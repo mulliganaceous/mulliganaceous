@@ -1,6 +1,6 @@
 # Samaria Mulligan
 
-__Status:__ Rebuilding
+__Status:__ Starting up
 
 Howdy everyone! This is mulliganaceous, a computer science and physics specialist equipped with hackathon knowledge. A longtime unicode fan, more emojis please!
 
