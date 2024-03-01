@@ -5,8 +5,9 @@ __Status:__ Starting up
 Howdy everyone! This is mulliganaceous, a computer science and physics specialist equipped with hackathon knowledge. A longtime unicode fan, more emojis please!
 
 * 📬: mulliganaceous@outlook.com (main), mulliganaceous@gmail.com (alt)
-* 🎮: !!MULLIGANACEOUS!!#6666 (discord, _not going to update_)
-* ▶️: @mulliganaceous (no autoplay!)
+* 🎮: [!!MULLIGANACEOUS!!#6666](https://www.youtube.com/shorts/TRhN_2bokBU) (discord, _not going to update_)
+* ▶️: [ĲKK / @mulliganaceous](https://www.youtube.com/channel/UCTvldASp9SvbsJsaUx4p2yA) (no autoplay!)
+* 🎶: [@mulliganaceous](https://www.tiktok.com/@mulliganaceous)
 * 🕓: Eastern Time (UTC−4 or UTC−5)
 
 ## Highlights
@@ -14,3 +15,4 @@ Howdy everyone! This is mulliganaceous, a computer science and physics specialis
 * Voyager 4 (SpaceApps)
 * CrimeTrack
 * Candy Crush Analyzer
+* [Operation: Hashling](https://www.youtube.com/watch?v=SdJTK-k7FcM)
