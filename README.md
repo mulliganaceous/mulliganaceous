@@ -10,9 +10,10 @@ Howdy everyone! This is mulliganaceous, a computer science and physics specialis
 * 🎶: [@mulliganaceous](https://www.tiktok.com/@mulliganaceous)
 * 🕓: Eastern Time (UTC−4 or UTC−5)
 
-## Highlights
+## Projects
 
-* Voyager 4 (SpaceApps)
-* CrimeTrack
 * Candy Crush Analyzer
-* [Operation: Hashling (currently running)](https://www.youtube.com/watch?v=SdJTK-k7FcM)
+* [Operation: Hashling (concluded 15:58 PST)](https://www.youtube.com/watch?v=o-XUeCMx5s0)
+* Riemann Zeta Tracer
+* Voyager 4
+* CrimeTrack
