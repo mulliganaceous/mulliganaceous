@@ -14,6 +14,6 @@ Howdy everyone! This is mulliganaceous, a computer science and physics specialis
 
 * Candy Crush Analyzer
 * [Operation: Hashling (concluded 15:58 PST)](https://www.youtube.com/watch?v=o-XUeCMx5s0)
-* Riemann Zeta Tracer
+* [Riemann Zeta Tracer (livestreaming on Easter + DST)](https://www.youtube.com/live/7Mk4GemMQ1M?feature=shared)
 * Voyager 4
 * CrimeTrack
