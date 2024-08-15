@@ -14,14 +14,14 @@ A longtime unicode fan, more emojis please!
 
 ## Projects
 
+* [Quantomics](https://github.com/mulliganaceous/Quantomics)
 * Candy Crush Analyzer (Administrator in hiatus)
 * [Operation: Hashling (concluded 15:58 PST)](https://www.reddit.com/r/discordapp/comments/1b6tu5z/finally_discord/)
 * [Riemann Zeta Tracer](https://www.youtube.com/playlist?list=PLvT98Qezxzdm8Bwde6WBt0gZ11VXaDPGI)
 * [Busy beaver animation](https://youtube.com/live/0c0wxkw9WGo)
-* Voyager 4
-* CrimeTrack
-
+* [Voyager](https://github.com/antonCPU/voyager-4-ml) [4](https://github.com/antonCPU/voyager-4-magnetic-alert)
 
 ![Riemann0xf4240](https://github.com/mulliganaceous/mulliganaceous/assets/29824582/1bb254c2-8264-4e7b-a71f-1d5d37d668e5)
-![BusyBeaver5](https://github.com/mulliganaceous/mulliganaceous/assets/29824582/d961f270-15c7-4c8d-998e-8edf8f028178)
-![BusyBeaver6](https://github.com/mulliganaceous/mulliganaceous/assets/29824582/8cf3bfc2-01b7-41c2-9a56-af1a18ef3577)
+![weldquanv4](https://github.com/user-attachments/assets/a0f5c474-bc94-44a9-bdac-108e26d4f0a0)
+![weldsample](https://github.com/user-attachments/assets/633de6bd-45e4-415e-b280-c892a020d0af)
+![qcircuit](https://github.com/user-attachments/assets/893d3c59-d425-4e62-baab-1179835e4f72)
