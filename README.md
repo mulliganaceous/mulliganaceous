@@ -1,6 +1,6 @@
 # Samaria Mulligan
 
-__Status:__ Starting up
+__Status:__ Active
 
 Howdy everyone! This is **@mulliganaceous**, a computer science and physics specialist equipped with hackathon knowledge and IBM's [*Quantum Computation using Qiskit v0.2X Associate Developer certification*](https://www.ibm.com/training/certification/ibm-certified-associate-developer-quantum-computation-using-qiskit-v02x-C0010300).
 
