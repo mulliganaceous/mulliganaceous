@@ -1,8 +1,8 @@
 # Samaria Mulligan
 
-__Status:__ Rebuilt.
+__Status:__ Rebuilt, but need regrouping.
 
-Howdy everyone! This is **@mulliganaceous**, a computer science and physics specialist equipped with hackathon knowledge and IBM's [*Quantum Computation using Qiskit v0.2X Associate Developer certification*](https://www.ibm.com/training/certification/ibm-certified-associate-developer-quantum-computation-using-qiskit-v02x-C0010300).
+Howdy everyone! This is **@mulliganaceous**, a computer science and physics specialist equipped with hackathon knowledge and IBM's Qiskit 0 certificate.
 
 A longtime unicode fan, more emojis please!
 
@@ -14,12 +14,15 @@ A longtime unicode fan, more emojis please!
 
 ## Projects
 
-* [Quantomics](https://github.com/mulliganaceous/Quantomics)
-* Candy Crush Analyzer (Administrator in hiatus)
-* [Operation: Hashling (concluded 15:58 PST)](https://www.reddit.com/r/discordapp/comments/1b6tu5z/finally_discord/)
-* [Riemann Zeta Tracer](https://www.youtube.com/playlist?list=PLvT98Qezxzdm8Bwde6WBt0gZ11VXaDPGI)
-* [Busy beaver animation](https://youtube.com/live/0c0wxkw9WGo)
-* [Voyager](https://github.com/antonCPU/voyager-4-ml) [4](https://github.com/antonCPU/voyager-4-magnetic-alert)
+* [Candy Crush Analyzer](https://candycrush.fandom.com/wiki/User:--MULLIGANACEOUS--) (2017, **Administrator in hiatus**)
+* [Voyager](https://github.com/antonCPU/voyager-4-ml) [4](https://github.com/antonCPU/voyager-4-magnetic-alert) (2023, Python, Pandas)
+* [Quantomics](https://github.com/mulliganaceous/Quantomics) (2024, Python, CUDA, ML, **WISER Finalist**)
+* [Operation: Hashling (concluded 15:58 PST)](https://www.reddit.com/r/discordapp/comments/1b6tu5z/finally_discord/) (2024, Java, Go)
+* [Busy beaver animation](https://youtube.com/live/0c0wxkw9WGo) (2024, C++)
+* Stealth startup + The Cloud Bootcamp (2025)
+* [Quantum Odyssey walkthrough](https://www.youtube.com/playlist?list=PLvT98QezxzdnsbulMhPDrSUbR4ejvdmVo) (2025, quantum computing, Pythong)
+* [Riemann Zeta Tracer](https://www.youtube.com/playlist?list=PLvT98Qezxzdm8Bwde6WBt0gZ11VXaDPGI) (2018 / 2024 / 2025, Java, CUDA, C++, Python)
+* Annealed Portfolio (2025, Python, D-WAVE, **WISER Finalist**)
 
 ![Riemann0xf4240](https://github.com/mulliganaceous/mulliganaceous/assets/29824582/1bb254c2-8264-4e7b-a71f-1d5d37d668e5)
 ![weldquanv4](https://github.com/user-attachments/assets/a0f5c474-bc94-44a9-bdac-108e26d4f0a0)
