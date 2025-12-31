@@ -2,13 +2,13 @@
 
 __Status:__ Rebuilt, but need regrouping.
 
-Howdy everyone! This is **@mulliganaceous**, a computer science and physics specialist equipped with hackathon knowledge and IBM's Qiskit 0 certificate.
+Howdy everyone! This is **@mulliganaceous**, a computer science and physics specialist equipped with hackathon knowledge and IBM's Qiskit 0 certificate. This is my personal GitHub page, and my unofficial overall homepage!
 
 A longtime unicode fan, more emojis please!
 
 * 📬: mulliganaceous@outlook.com (main), mulliganaceous@gmail.com (alt)
 * 🎮: !!MULLIGANACEOUS!!#6666 ([_Hashed_ on Day 1](https://www.youtube.com/watch?v=o-XUeCMx5s0))
-* ▶️: [ĲK / @mulliganaceous](https://www.youtube.com/channel/UCTvldASp9SvbsJsaUx4p2yA) (no autoplay!)
+* ▶️: [ĲK / @mulliganaceous](https://www.youtube.com/channel/UCTvldASp9SvbsJsaUx4p2yA) (500 subs)
 * 🎶: [@mulliganaceous](https://www.tiktok.com/@mulliganaceous)
 * 🕓: Eastern Time (UTC−4 or UTC−5)
 
